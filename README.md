@@ -35,6 +35,14 @@ https://kinocoder.tistory.com/13
 mac에서 개발 준비하기
 https://www.arunponnusamy.com/deep-learning-setup-macos.html
 
+이미지 학습학기
+
+https://j-remind.tistory.com/64
+https://blog.francium.tech/custom-object-training-and-detection-with-yolov3-darknet-and-opencv-41542f2ff44e
+https://github.com/tzutalin/labelImg
+
+
+
 
 ### YOLO Site
 https://pjreddie.com/darknet/yolo/
